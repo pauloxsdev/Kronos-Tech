@@ -9,7 +9,7 @@ O **Kronos Tech** é uma aplicação web de e-commerce desenvolvida como projeto
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-* **Back-end:** PHP (Nativo)
+* **Back-end:** PHP
 * **Front-end:** HTML5, CSS3, JavaScript
 * **Banco de Dados:** MySQL
 * **Servidor Web:** Apache (via XAMPP/WAMP)
